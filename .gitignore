@@ -1,0 +1,8 @@
+.venv
+.vscode
+*.csv
+*.xlsx
+*.docx
+*.pdf
+.ipynb_checkpoints/
+*.xml
